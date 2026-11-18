@@ -1,0 +1,590 @@
+#EXTM3U
+#====================================================
+# 湖南移动 IPTV 直播源 · 整理版
+# 频道总数: 189  |  清理重复源: 3
+# 分组顺序: 央视 → 湖南卫视 → 湖南市县 → 省级卫视 → 数字付费
+#====================================================
+
+# ===== 1. 央视 · 中央台（25）=====
+#EXTINF:-1 group-title="央视",CCTV1
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV3
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047435/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047436/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV17
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024152/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/main.m3u8
+#EXTINF:-1 group-title="央视",CGTN
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182292/main.m3u8
+#EXTINF:-1 group-title="央视",CGTN纪录
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8
+#EXTINF:-1 group-title="央视",CETV-1
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007220/main.m3u8
+#EXTINF:-1 group-title="央视",CETV-2
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361367/main.m3u8
+#EXTINF:-1 group-title="央视",CETV-4
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361368/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV16 4K
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000085000000178450/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV 4K
+#EXTGRP:央视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/index.m3u8
+
+# ===== 2. 湖南卫视 · 湖南省级（13）=====
+#EXTINF:-1 group-title="湖南卫视",湖南卫视4k
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南卫视
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001242/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南经视
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000002000000113182/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南都市
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001249/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南电视剧
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南电影
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001246/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南娱乐
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001248/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",金鹰纪实
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007228/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南爱晚
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047425/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南国际
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047426/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",金鹰卡通
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",快乐购
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047427/main.m3u8
+#EXTINF:-1 group-title="湖南卫视",湖南教育
+#EXTGRP:湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/main.m3u8
+
+# ===== 3. 湖南 · 市县融媒（54）=====
+#EXTINF:-1 group-title="湖南市县",长沙新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182539/main.m3u8
+#EXTINF:-1 group-title="湖南市县",长沙政法
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182540/main.m3u8
+#EXTINF:-1 group-title="湖南市县",长沙文旅
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024050609475789931438327485597/main.m3u8
+#EXTINF:-1 group-title="湖南市县",株洲新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047450/main.m3u8
+#EXTINF:-1 group-title="湖南市县",永州新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000070000000360264/main.m3u8
+#EXTINF:-1 group-title="湖南市县",永州经济生活
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000070000000360265/main.m3u8
+#EXTINF:-1 group-title="湖南市县",湘潭新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047451/main.m3u8
+#EXTINF:-1 group-title="湖南市县",浏阳新闻
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000003000000199383/main.m3u8
+#EXTINF:-1 group-title="湖南市县",常德新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000014000000153736/main.m3u8
+#EXTINF:-1 group-title="湖南市县",岳阳新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071030/main.m3u8
+#EXTINF:-1 group-title="湖南市县",岳阳文旅都市
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071035/main.m3u8
+#EXTINF:-1 group-title="湖南市县",怀化新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000287147/main.m3u8
+#EXTINF:-1 group-title="湖南市县",张家界新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000270433/main.m3u8
+#EXTINF:-1 group-title="湖南市县",张家界公共
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000270434/main.m3u8
+#EXTINF:-1 group-title="湖南市县",郴州文旅
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024041109210554359100182250274/main.m3u8
+#EXTINF:-1 group-title="湖南市县",郴州综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000253555/main.m3u8
+#EXTINF:-1 group-title="湖南市县",衡阳新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000032000000431041/main.m3u8
+#EXTINF:-1 group-title="湖南市县",衡阳文旅法治
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000032000000431042/main.m3u8
+#EXTINF:-1 group-title="湖南市县",益阳新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121664/main.m3u8
+#EXTINF:-1 group-title="湖南市县",益阳公共
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121665/main.m3u8
+#EXTINF:-1 group-title="湖南市县",宁乡综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000088000000189333/main.m3u8
+#EXTINF:-1 group-title="湖南市县",娄底综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000401158/main.m3u8
+#EXTINF:-1 group-title="湖南市县",娄底公共
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000401159/main.m3u8
+#EXTINF:-1 group-title="湖南市县",邵阳新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000035000000442109/main.m3u8
+#EXTINF:-1 group-title="湖南市县",邵阳文旅民生
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000035000000442111/main.m3u8
+#EXTINF:-1 group-title="湖南市县",湘西新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007222/main.m3u8
+#EXTINF:-1 group-title="湖南市县",湘西文化旅游
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007221/main.m3u8
+#EXTINF:-1 group-title="湖南市县",桂东融媒
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022070511364958849280309166613/main.m3u8
+#EXTINF:-1 group-title="湖南市县",溆浦综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022081009161715840057989337010/main.m3u8
+#EXTINF:-1 group-title="湖南市县",衡阳县电视台
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022081009163667288373375492434/main.m3u8
+#EXTINF:-1 group-title="湖南市县",茶陵综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022122810483269375637863185424/main.m3u8
+#EXTINF:-1 group-title="湖南市县",道县综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023031709171793958336992058891/main.m3u8
+#EXTINF:-1 group-title="湖南市县",长沙县新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023100711211844260971666345327/main.m3u8
+#EXTINF:-1 group-title="湖南市县",武冈综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023051810064562567783194722252/main.m3u8
+#EXTINF:-1 group-title="湖南市县",津市综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023051810004949821610882370751/main.m3u8
+#EXTINF:-1 group-title="湖南市县",新化综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416091722320269512678580/main.m3u8
+#EXTINF:-1 group-title="湖南市县",临澧新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023083117151610050341743480309/main.m3u8
+#EXTINF:-1 group-title="湖南市县",洞口融媒综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024010310304257436888393134302/main.m3u8
+#EXTINF:-1 group-title="湖南市县",安乡新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024010517473657006166484284543/main.m3u8
+#EXTINF:-1 group-title="湖南市县",桃源综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024010517463839093800545563153/main.m3u8
+#EXTINF:-1 group-title="湖南市县",湘乡新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024010517455620143747854688390/main.m3u8
+#EXTINF:-1 group-title="湖南市县",蓝山综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024010517452150094697691510081/main.m3u8
+#EXTINF:-1 group-title="湖南市县",冷水江新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024050609485691532201307235032/main.m3u8
+#EXTINF:-1 group-title="湖南市县",湘潭县综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024050609482919270088688329990/main.m3u8
+#EXTINF:-1 group-title="湖南市县",中方台
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024052707494681186631691050510/main.m3u8
+#EXTINF:-1 group-title="湖南市县",新田综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024052707485876432750946292289/main.m3u8
+#EXTINF:-1 group-title="湖南市县",麻阳综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024052707500626472818613257297/main.m3u8
+#EXTINF:-1 group-title="湖南市县",双峰新闻综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024091910225188925318809882775/main.m3u8
+#EXTINF:-1 group-title="湖南市县",汨罗综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024111511192033569082889197464/main.m3u8
+#EXTINF:-1 group-title="湖南市县",涟源综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024111511191470901171885121422/main.m3u8
+#EXTINF:-1 group-title="湖南市县",资兴综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025011517541780653411845190876/main.m3u8
+#EXTINF:-1 group-title="湖南市县",保靖时政
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025031110380713811584043556336/main.m3u8
+#EXTINF:-1 group-title="湖南市县",芷江综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025090910563578912228132389994/main.m3u8
+#EXTINF:-1 group-title="湖南市县",临武综合
+#EXTGRP:湖南市县
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025090910571379175904273894223/main.m3u8
+
+# ===== 4. 省级卫视 · 全国（49）=====
+#EXTINF:-1 group-title="省级卫视",江苏卫视4K
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262178928213010539289/main.m3u8
+#EXTINF:-1 group-title="省级卫视",浙江卫视4K
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262252695540491433081/main.m3u8
+#EXTINF:-1 group-title="省级卫视",东方卫视4K
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541005/main.m3u8
+#EXTINF:-1 group-title="省级卫视",深圳卫视4k
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216044934209640975946187/main.m3u8?stbid=
+#EXTINF:-1 group-title="省级卫视",北京卫视4k
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025041016455754529971118212688/main.m3u8?stbid=
+#EXTINF:-1 group-title="省级卫视",广东卫视4k
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216045554851550640574941/main.m3u8?stbid=
+#EXTINF:-1 group-title="省级卫视",山东卫视4K
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262122088149630612658/main.m3u8
+#EXTINF:-1 group-title="省级卫视",四川卫视4K
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262063636605981698869/main.m3u8
+#EXTINF:-1 group-title="省级卫视",江苏卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001244/main.m3u8
+#EXTINF:-1 group-title="省级卫视",浙江卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001250/main.m3u8
+#EXTINF:-1 group-title="省级卫视",安徽卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/main.m3u8
+#EXTINF:-1 group-title="省级卫视",北京卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047443/main.m3u8
+#EXTINF:-1 group-title="省级卫视",天津卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 group-title="省级卫视",东方卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/main.m3u8
+#EXTINF:-1 group-title="省级卫视",江西卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308822/main.m3u8
+#EXTINF:-1 group-title="省级卫视",深圳卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047446/main.m3u8
+#EXTINF:-1 group-title="省级卫视",辽宁卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007225/main.m3u8
+#EXTINF:-1 group-title="省级卫视",东南卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/main.m3u8
+#EXTINF:-1 group-title="省级卫视",海南卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208265/main.m3u8
+#EXTINF:-1 group-title="省级卫视",广东卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/main.m3u8
+#EXTINF:-1 group-title="省级卫视",湖北卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/main.m3u8
+#EXTINF:-1 group-title="省级卫视",广西卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215605/main.m3u8
+#EXTINF:-1 group-title="省级卫视",山东卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047448/main.m3u8
+#EXTINF:-1 group-title="省级卫视",四川卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308823/main.m3u8
+#EXTINF:-1 group-title="省级卫视",重庆卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/main.m3u8
+#EXTINF:-1 group-title="省级卫视",云南卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/main.m3u8
+#EXTINF:-1 group-title="省级卫视",河南卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208264/main.m3u8
+#EXTINF:-1 group-title="省级卫视",黑龙江卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/main.m3u8
+#EXTINF:-1 group-title="省级卫视",贵州卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040424/main.m3u8
+#EXTINF:-1 group-title="省级卫视",河北卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007223/main.m3u8
+#EXTINF:-1 group-title="省级卫视",吉林卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208223/main.m3u8
+#EXTINF:-1 group-title="省级卫视",陕西卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215607/main.m3u8
+#EXTINF:-1 group-title="省级卫视",山西卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182271/main.m3u8
+#EXTINF:-1 group-title="省级卫视",内蒙古卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182272/main.m3u8
+#EXTINF:-1 group-title="省级卫视",三沙卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8
+#EXTINF:-1 group-title="省级卫视",宁夏卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182273/main.m3u8
+#EXTINF:-1 group-title="省级卫视",西藏卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/main.m3u8
+#EXTINF:-1 group-title="省级卫视",新疆卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182275/main.m3u8
+#EXTINF:-1 group-title="省级卫视",四川康巴卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000134000000367619/main.m3u8
+#EXTINF:-1 group-title="省级卫视",延边卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023031709181220216556910725802/main.m3u8
+#EXTINF:-1 group-title="省级卫视",甘肃卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/main.m3u8
+#EXTINF:-1 group-title="省级卫视",卡酷少儿
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
+#EXTINF:-1 group-title="省级卫视",优漫卡通
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182321/main.m3u8
+#EXTINF:-1 group-title="省级卫视",青海卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215609/main.m3u8
+#EXTINF:-1 group-title="省级卫视",山东教育
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007227/main.m3u8
+#EXTINF:-1 group-title="省级卫视",厦门卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381023/main.m3u8
+#EXTINF:-1 group-title="省级卫视",兵团卫视
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381024/main.m3u8
+#EXTINF:-1 group-title="省级卫视",嘉佳卡通
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381025/main.m3u8
+#EXTINF:-1 group-title="省级卫视",纪实科教
+#EXTGRP:省级卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/main.m3u8
+
+# ===== 5. 数字付费 · 专业频道（48）=====
+#EXTINF:-1 group-title="数字付费",天元围棋
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/main.m3u8
+#EXTINF:-1 group-title="数字付费",梨园
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308847/main.m3u8
+#EXTINF:-1 group-title="数字付费",四海钓鱼
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/main.m3u8
+#EXTINF:-1 group-title="数字付费",快乐垂钓
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/main.m3u8
+#EXTINF:-1 group-title="数字付费",文物宝库
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308848/main.m3u8
+#EXTINF:-1 group-title="数字付费",新动漫
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448837/main.m3u8
+#EXTINF:-1 group-title="数字付费",优优宝贝
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040377/main.m3u8
+#EXTINF:-1 group-title="数字付费",老故事
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448839/main.m3u8
+#EXTINF:-1 group-title="数字付费",财富天下
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040380/main.m3u8
+#EXTINF:-1 group-title="数字付费",武术世界
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/main.m3u8
+#EXTINF:-1 group-title="数字付费",家庭影院
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8
+#EXTINF:-1 group-title="数字付费",影迷电影
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448841/main.m3u8
+#EXTINF:-1 group-title="数字付费",动作电影
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8
+#EXTINF:-1 group-title="数字付费",书画
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448843/main.m3u8
+#EXTINF:-1 group-title="数字付费",环球旅游
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/main.m3u8
+#EXTINF:-1 group-title="数字付费",收藏天下
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022110411090836203478380759910/main.m3u8
+#EXTINF:-1 group-title="数字付费",国学
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022110411133186725376756113972/main.m3u8
+#EXTINF:-1 group-title="数字付费",生态环境
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022110216491442983478388082464/main.m3u8
+#EXTINF:-1 group-title="数字付费",卫生健康
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047454/main.m3u8
+#EXTINF:-1 group-title="数字付费",第一剧场
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244808/main.m3u8
+#EXTINF:-1 group-title="数字付费",风云剧场
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244807/main.m3u8
+#EXTINF:-1 group-title="数字付费",风云音乐
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244809/main.m3u8
+#EXTINF:-1 group-title="数字付费",风云足球
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244800/main.m3u8
+#EXTINF:-1 group-title="数字付费",怀旧剧场
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244806/main.m3u8
+#EXTINF:-1 group-title="数字付费",女性时尚
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244811/main.m3u8
+#EXTINF:-1 group-title="数字付费",央视文化精品
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244810/main.m3u8
+#EXTINF:-1 group-title="数字付费",世界地理
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244805/main.m3u8
+#EXTINF:-1 group-title="数字付费",央视台球
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244803/main.m3u8
+#EXTINF:-1 group-title="数字付费",兵器科技
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244796/main.m3u8
+#EXTINF:-1 group-title="数字付费",电视指南
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244797/main.m3u8
+#EXTINF:-1 group-title="数字付费",高尔夫网球
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244801/main.m3u8
+#EXTINF:-1 group-title="数字付费",早期教育
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023060222354368427501888132813/main.m3u8
+#EXTINF:-1 group-title="数字付费",中学生
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416093545217774427398013/main.m3u8
+#EXTINF:-1 group-title="数字付费",环球奇观
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416181029613614091027931/main.m3u8
+#EXTINF:-1 group-title="数字付费",欢笑剧场4K
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210575059626176209727023/main.m3u8
+#EXTINF:-1 group-title="数字付费",嘉丽购
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047453/main.m3u8
+#EXTINF:-1 group-title="数字付费",茶频道
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000316196/main.m3u8
+#EXTINF:-1 group-title="数字付费",优购物
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023081509025290234840317360123/main.m3u8
+#EXTINF:-1 group-title="数字付费",都市剧场
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/main.m3u8
+#EXTINF:-1 group-title="数字付费",动漫秀场
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/main.m3u8
+#EXTINF:-1 group-title="数字付费",先锋乒羽
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182319/main.m3u8
+#EXTINF:-1 group-title="数字付费",法治天地
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/main.m3u8
+#EXTINF:-1 group-title="数字付费",金色学堂
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/main.m3u8
+#EXTINF:-1 group-title="数字付费",中国天气
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000004000000182438/main.m3u8
+#EXTINF:-1 group-title="数字付费",游戏风云
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/main.m3u8
+#EXTINF:-1 group-title="数字付费",乐游
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210562120685964078060674/main.m3u8
+#EXTINF:-1 group-title="数字付费",生活时尚
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211012947472200435228155/main.m3u8
+#EXTINF:-1 group-title="数字付费",东方财经
+#EXTGRP:数字付费
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042209595643000133896920951/main.m3u8
+
+#====================================================
+# 已清理的重复源（同名频道保留了上面列出的主源，以下为备用源）
+#====================================================
+# 长沙新闻综合 备用源: http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047429/main.m3u8
+# 长沙政法 备用源: http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047430/main.m3u8
+# 茶频道 备用源: http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000003000000104063/main.m3u8
