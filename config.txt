@@ -3,7 +3,7 @@
 # 以后换源：只改下面的地址并保存，所有 APP 下次打开自动生效，无需重装 APK
 
 # 直播源地址（改这里换源）
-https://raw.githubusercontent.com/Kimentanm/aptv/
+https://github.com/a12a123a1234/HN-IPTV/blob/main/config.txt
 
 # 节目单地址（一般不用改；删除此行则用APP内置默认）
 https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz
