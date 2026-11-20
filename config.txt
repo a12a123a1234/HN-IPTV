@@ -1,0 +1,9 @@
+# 直播源后台配置文件 config.txt
+# 规则：第一个 http(s) 地址 = 直播源；第二个 = 节目单（可留空则用APP内置默认）
+# 以后换源：只改下面的地址并保存，所有 APP 下次打开自动生效，无需重装 APK
+
+# 直播源地址（改这里换源）
+https://tvv.tw/https://raw.githubusercontent.com/a12a123a1234/HN-IPTV/refs/heads/main/HN-IPTV.txt
+
+# 节目单地址（一般不用改；删除此行则用APP内置默认）
+https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz
